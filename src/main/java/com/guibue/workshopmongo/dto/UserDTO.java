@@ -59,4 +59,5 @@ public class UserDTO implements Serializable {
     public int hashCode() {
         return id.hashCode();
     }
+
 }
