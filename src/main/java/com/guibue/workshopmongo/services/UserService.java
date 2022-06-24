@@ -4,7 +4,6 @@ import com.guibue.workshopmongo.domain.User;
 import com.guibue.workshopmongo.dto.UserDTO;
 import com.guibue.workshopmongo.repository.UserRepository;
 import com.guibue.workshopmongo.services.exceptions.ObjectNotFoundException;
-import org.apache.catalina.UserDatabase;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
